@@ -12,4 +12,8 @@ How To Use
 
 5.BOOM..You can check your Date and Time.
 
+Disclamer...
+
+Opening the index.html file directly without using any code editor/live server may not work as the time needs to be updated every second.
+
 ENJOY....
